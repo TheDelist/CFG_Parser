@@ -11,3 +11,5 @@ Hi
 * I wrote a search function for the input sentences entered into us and I found where the letters in the sentence were derived from with the Backtracking logic.
 * Since I already know the paths, Parse Tree and Derivation Tree of the letters where they come from are shown.
 
+![alt text](https://github.com/TheDelist/CFG_Parser/blob/master/inputandderivation.PNG?raw=true)
+
